@@ -26,7 +26,7 @@ def salvar_seu_numeros_em_txt(caminho_arquivo_json, caminho_arquivo_saida):
 
 # Caminho do arquivo JSON e do arquivo de saída
 caminho_json = "jsonList.json"
-caminho_saida = "seu_numeros9.txt"
+caminho_saida = "SicoobVerificacao12.txt"
 
 # Chama a função e imprime o resultado
 resultado = salvar_seu_numeros_em_txt(caminho_json, caminho_saida)
